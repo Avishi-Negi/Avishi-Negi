@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Avishi Negi</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
@@ -13,7 +15,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/DELL/Desktop/resume.pdf](file:///C:/Users/DELL/Desktop/resume.pdf)
 
-- ⚡ Fun fact **I am an introvert..!!1**
+- ⚡ Fun fact **I am an introvert..!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
